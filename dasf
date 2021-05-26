@@ -1,0 +1,13 @@
+getting the input data from a from to the server
+How do I send data from my form to my server?
+form
+--submit button
+--establish connection with server
+
+
+
+
+
+server
+  --way to get the request
+  --way to see the data
